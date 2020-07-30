@@ -2,5 +2,9 @@ Conociendo comandos de GIT.
 
 Conociendo ramas en GIT. 
 
+<<<<<<< HEAD
 
 Linea cargada en master
+=======
+Linea cargada en la rama desarrollo.
+>>>>>>> desarrollo
