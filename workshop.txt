@@ -1,1 +1,3 @@
-Conociendo comandos de GIT
+Conociendo comandos de GIT. 
+
+Conociendo ramas en GIT. 
